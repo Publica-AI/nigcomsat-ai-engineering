@@ -12,8 +12,8 @@ ORIGINALS = REPO / "Time-series"
 BRAND_DIR = ROOT / "assets" / "brand"
 
 # --- where the course lives on GitHub (change these two lines if it moves) ---
-GITHUB_REPO = "Publica-AI/nigcomsat-ai-developer"
-GITHUB_BRANCH = "jasons-restructure"
+GITHUB_REPO = "Publica-AI/nigcomsat-ai-engineering"
+GITHUB_BRANCH = "main"
 
 # The training data is read straight from the ORIGINAL files on the main branch.
 DATA_BRANCH = "main"
